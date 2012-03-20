@@ -1,0 +1,14 @@
+*.o
+*.a
+*.depend
+MLO
+System.map
+signGP
+x-load
+x-load.bin
+x-load.bin.ift
+x-load.map
+include/asm/arch
+include/asm/proc
+include/config.h
+include/config.mk
